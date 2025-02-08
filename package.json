@@ -1,0 +1,17 @@
+{
+  "name": "phone-number-checker-vietnamese",
+  "version": "4.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "library",
+    "phone-number-checker-vietnamese"
+
+  ],
+  "author": "Khanh Tarzan",
+  "license": "ISC",
+  "description": "A small library built to check 10-digit Vietnamese phone numbers"
+}
